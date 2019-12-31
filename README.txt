@@ -15,6 +15,8 @@
   1. npm install
   2. cd client -> npm install
   3. go back to the project root directory (from client) and then run: npm start
+  The Client is running on localhost:3000. (Will be opened automatically after npm start)
+  The Server is running on localhost:8000.
 
 - Assumptions:
   1. The stream sends data continuously, and each chunk that is received doesn't have to be a full valid json object that represent
