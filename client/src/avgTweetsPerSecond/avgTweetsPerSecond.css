@@ -1,0 +1,15 @@
+.avg-tweets-container {
+  width: 150px;
+  padding: 7px;
+  margin: auto;
+  margin-top: 20px;
+  color: white;
+  box-shadow: 0 0 14px -2px black;
+  background-color: #4c6699;
+  text-align: center;
+}
+
+.avg-tweets-title {
+  font-size: 10px;
+  margin-bottom: 5px;
+}

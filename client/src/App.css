@@ -1,0 +1,13 @@
+.results {
+  width: 100px;
+  font-size: 20px;
+  height: 100px;
+  margin: auto;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.allTopItems {
+  width: 1035px;
+  margin: auto;
+}

@@ -1,0 +1,29 @@
+.topItems{
+  display: inline-block;
+  vertical-align: top;
+  width: 329px;
+  margin: 8px;
+  padding: 10px;
+  box-shadow: 0 0 14px -2px black;
+  background-color: #5d9bff40;
+}
+
+.titles {
+  height: 70px;
+  text-align: center;  
+  margin: auto;
+}
+
+.title {
+  display: inline-block;
+  width: 345px;
+  height: 30px;
+}
+
+.item {
+  margin: auto;
+  height: 30px;
+  border-top: 1px solid deepskyblue;
+  text-align: left;
+  padding: 5px;
+}
